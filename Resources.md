@@ -8,5 +8,5 @@
 ### Articles
 1. [Functional sets](https://www.brianthicks.com/post/2016/11/13/functional-sets-part-1-construction/)
 
-###Communities
+### Communities
 [Lambda the Ultimate](http://lambda-the-ultimate.org/)
